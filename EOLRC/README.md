@@ -1,3 +1,7 @@
+Article about these parts: https://nnekrut.netlify.app/posts/eolrc-an-extremely-overkill-lego-rc-car-from-plane-parts/
+
+Build guide: https://nnekrut.netlify.app/posts/eolrc-build-guide/
+
 Here's some driving footage: https://www.youtube.com/watch?v=VaGnldsxeiA
 
 This makes all your basic RC plane parts compatible with lego technic for the creation of endless projects such as this RC car. **Note that these parts are not strictly for an RC car**
